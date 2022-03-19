@@ -1,0 +1,72 @@
+body {
+    background-color: hotpink;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header_hentai {
+    background-color: rgb(212, 31, 188);
+    width: 70%;
+    height: 150px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    background-color: rgb(224, 71, 255);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Seccion_doujin {
+    background-color: white;
+    width: 80%;
+    height: 225px;
+    border-radius: 50px;
+}
+.Seccion_hentai {
+    background-color: white;
+    width: 80%;
+    height: 225px;
+    border-radius: 50px;
+}
+.Recomendaciones{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Buscar {
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    height: 50px;
+}
