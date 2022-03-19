@@ -1,2 +1,2 @@
 # Maquetado
-Una de mis primeras maquetaciones HTML y CSS
+Muchos proyectos juntos, días que estudiaba HTML y CSS
